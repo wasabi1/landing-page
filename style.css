@@ -109,7 +109,11 @@ a {
     color: #1f2937;
     font-weight: light;
     font-style: italic;
-
+    text-align: left;
+    padding: 64px;
+    text-align: start;
+    padding-left: 200px;
+    padding-right: 200px;
 
 }
 
